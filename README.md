@@ -46,9 +46,6 @@ Some of the key insights derived from the analysis:
 - Predictive modeling for app ratings.
 - Advanced machine learning models to classify app success factors.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out!
 - 📧 Email:dubey.murli43@gmail.com
